@@ -1,4 +1,4 @@
-# frensh translations for PROJECT.
+# translations for PROJECT.
 # Copyright (C) 2021 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
@@ -17,18 +17,3 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
-
-msgid "home_title"
-msgstr "Bienvenue chez Holberton"
-
-msgid "home_header"
-msgstr "Bonjour monde!"
-
-msgid "logged_in_as"
-msgstr "Vous êtes connecté en tant que %(username)s."
-
-msgid "not_logged_in"
-msgstr "Vous n'êtes pas connecté."
-
-msgid "current_time_is"
-msgstr "Nous sommes le %(current_time)s."
